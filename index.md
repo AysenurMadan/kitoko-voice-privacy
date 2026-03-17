@@ -34,8 +34,7 @@ Your use of third-party services is subject to each provider’s own terms and p
 
 ## 6. Permissions Explained
 The extension requests permissions such as:
-- `activeTab`, `tabs`: detect and interact with the active Salesforce tab
-- `scripting`: run content script functionality on relevant pages
+- `tabs`: detect and interact with the active Salesforce tab
 - `contextMenus`: provide right-click start actions
 - `cookies`: read Salesforce session context required for authenticated API actions
 
